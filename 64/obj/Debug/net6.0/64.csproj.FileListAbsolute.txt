@@ -1,0 +1,15 @@
+E:\Документы\Обучение\C#\Seminar_W\Home_9\64\bin\Debug\net6.0\64.exe
+E:\Документы\Обучение\C#\Seminar_W\Home_9\64\bin\Debug\net6.0\64.deps.json
+E:\Документы\Обучение\C#\Seminar_W\Home_9\64\bin\Debug\net6.0\64.runtimeconfig.json
+E:\Документы\Обучение\C#\Seminar_W\Home_9\64\bin\Debug\net6.0\64.dll
+E:\Документы\Обучение\C#\Seminar_W\Home_9\64\bin\Debug\net6.0\64.pdb
+E:\Документы\Обучение\C#\Seminar_W\Home_9\64\obj\Debug\net6.0\64.csproj.AssemblyReference.cache
+E:\Документы\Обучение\C#\Seminar_W\Home_9\64\obj\Debug\net6.0\64.GeneratedMSBuildEditorConfig.editorconfig
+E:\Документы\Обучение\C#\Seminar_W\Home_9\64\obj\Debug\net6.0\64.AssemblyInfoInputs.cache
+E:\Документы\Обучение\C#\Seminar_W\Home_9\64\obj\Debug\net6.0\64.AssemblyInfo.cs
+E:\Документы\Обучение\C#\Seminar_W\Home_9\64\obj\Debug\net6.0\64.csproj.CoreCompileInputs.cache
+E:\Документы\Обучение\C#\Seminar_W\Home_9\64\obj\Debug\net6.0\64.dll
+E:\Документы\Обучение\C#\Seminar_W\Home_9\64\obj\Debug\net6.0\refint\64.dll
+E:\Документы\Обучение\C#\Seminar_W\Home_9\64\obj\Debug\net6.0\64.pdb
+E:\Документы\Обучение\C#\Seminar_W\Home_9\64\obj\Debug\net6.0\64.genruntimeconfig.cache
+E:\Документы\Обучение\C#\Seminar_W\Home_9\64\obj\Debug\net6.0\ref\64.dll
